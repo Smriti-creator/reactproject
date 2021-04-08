@@ -6,11 +6,11 @@ const sidebar = () => {
             <Icon>
                 <CloseIcon />
             </Icon>
-            <Sidebarwrapper>
+            {/* <Sidebarwrapper> */}
         {/* <SidebarMenu>
             <SidebarLink to="/about"> about</SidebarLink>
         </SidebarMenu> */}
-            </Sidebarwrapper>
+            {/* </Sidebarwrapper> */}
         </SidebarContainer>
     )
 }
