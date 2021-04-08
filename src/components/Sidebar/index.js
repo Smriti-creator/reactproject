@@ -7,9 +7,9 @@ const sidebar = () => {
                 <CloseIcon />
             </Icon>
             <Sidebarwrapper>
-        <SidebarMenu>
+        {/* <SidebarMenu>
             <SidebarLink to="/about"> about</SidebarLink>
-        </SidebarMenu>
+        </SidebarMenu> */}
             </Sidebarwrapper>
         </SidebarContainer>
     )
